@@ -1,4 +1,4 @@
-package com.example.copytext;
+package com.ntrllog.copytext;
 
 public class Text {
 
@@ -31,4 +31,5 @@ public class Text {
     public int getId() {
         return this.id;
     }
+
 }

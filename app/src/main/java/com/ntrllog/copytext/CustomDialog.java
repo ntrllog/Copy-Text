@@ -1,4 +1,4 @@
-package com.example.copytext;
+package com.ntrllog.copytext;
 
 import android.app.Activity;
 import android.app.Dialog;

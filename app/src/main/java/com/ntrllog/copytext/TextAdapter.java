@@ -1,7 +1,6 @@
-package com.example.copytext;
+package com.ntrllog.copytext;
 
 import android.app.Activity;
-import android.app.Notification;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
