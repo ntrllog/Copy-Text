@@ -5,13 +5,13 @@ An Android app that is kind of like a clipboard manager. It allows you to privat
 APK available at the ["release"](https://github.com/alan-lam/Copy-Text/releases) section
 
 ## Screenshots
-![Alt text](/pictures/home.png?raw=true)
-![Alt text](/pictures/add.png?raw=true)
-![Alt text](/pictures/dialog.png?raw=true)
-![Alt text](/pictures/edit.png?raw=true)
-![Alt text](/pictures/changed.png?raw=true)
-![Alt text](/pictures/copied.png?raw=true)
-![Alt text](/pictures/context_menu.png?raw=true)
+![Alt text](/pictures/home.jpg?raw=true)
+![Alt text](/pictures/add.jpg?raw=true)
+![Alt text](/pictures/dialog.jpg?raw=true)
+![Alt text](/pictures/edit.jpg?raw=true)
+![Alt text](/pictures/changed.jpg?raw=true)
+![Alt text](/pictures/copied.jpg?raw=true)
+![Alt text](/pictures/context_menu.jpg?raw=true)
 
 ## Concepts
 - Dialog
